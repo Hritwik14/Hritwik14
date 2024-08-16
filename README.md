@@ -1,4 +1,4 @@
-[![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)]
+![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
 <h1 align="center">Hi 👋, I'm Hritwik Das</h1>
 <h3 align="center">A passionate developer and problem-solver from India</h3>
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
