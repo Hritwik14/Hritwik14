@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently studying Engineering **(Department of Computer Science and Engineering)**
 
-- 🌱 I’m currently learning **MERN-stack**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👯 I’m looking to collaborate on **exciting projects!**
 
